@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Visor de imagenes</title> 
@@ -27,7 +26,7 @@ function mifoto(num) { //cambiar la imagen
          }
 </script>
 <div id="cabecera">
-<h1>Visor de imagenes</h1>
+<h1>Productos químicos de limpieza</h1>
 </div>
 <div id="menu">
 <img src='foto1.jpg' alt='1. Amoniaco.' name='fotos1' onclick="mifoto(1)"/>
